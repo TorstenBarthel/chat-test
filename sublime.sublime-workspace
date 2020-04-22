@@ -1,0 +1,550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"size",
+				"sizeTitle"
+			],
+			[
+				"sizes",
+				"sizes_titles"
+			],
+			[
+				"selected",
+				"selectedProduct"
+			],
+			[
+				"data",
+				"dataSource"
+			],
+			[
+				"po",
+				"property"
+			],
+			[
+				"acc",
+				"accRight"
+			],
+			[
+				"app",
+				"appdata"
+			],
+			[
+				"serv",
+				"serviceInfoUrl"
+			],
+			[
+				"ser",
+				"serviceInfoUrl"
+			],
+			[
+				"json",
+				"JSON"
+			],
+			[
+				"n",
+				"navigator"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"connec",
+				"Connection"
+			],
+			[
+				"ava",
+				"availableColors"
+			],
+			[
+				"add",
+				"addBody"
+			],
+			[
+				"scree",
+				"screenOriginY"
+			],
+			[
+				"anch",
+				"anchorY"
+			],
+			[
+				"new",
+				"newRect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 405,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/App.vue",
+			"settings":
+			{
+				"buffer_size": 814,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/.gitignore",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/router/index.js",
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<template>\n  <div class=\"question\">\n    \n    <h1>{{ question }}</h1>\n\n  </div>\n</template>\n\n<script>\nexport default {\n  name: 'question',\n  data () {\n    return {\n      question: { \n        title: 'Warum ist die Banane krumm?'\n        answers: [\n          {\n            title: \"Warum nicht\"\n            correct: false\n          }\n        ]\n      }\n    }\n  }\n}\n</script>\n\n<!-- Add \"scoped\" attribute to limit CSS to this component only -->\n<style scoped>\nh1, h2 {\n  font-weight: normal;\n}\nul {\n  list-style-type: none;\n  padding: 0;\n}\nli {\n  display: inline-block;\n  margin: 0 10px;\n}\na {\n  color: #42b983;\n}\n</style>\n",
+			"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/components/HelloWorld.vue",
+			"file_size": 1899,
+			"file_write_time": 132077333126452331,
+			"settings":
+			{
+				"buffer_size": 617,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/html/index.html",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/src",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/components",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/router",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/test",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/test/unit",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/test/unit/specs"
+	],
+	"file_history":
+	[
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/index.html",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/config/dev.env.js",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/test/unit/index.js",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/router/index.js",
+		"/C/Users/torst/Documents/projects/chat-test/static/html/index.html",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/main.js",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/components/HelloWorld.vue",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/App.vue",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/test/unit/specs/HelloWorld.spec.js",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/config/test.env.js",
+		"/C/Users/torst/Documents/projects/quizorg/quizorg-app/config/index.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/styles/navigation-bar.css",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/controller/AppController.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/app.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/payments.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/sendOrder.html",
+		"/C/Users/torst/Documents/projects/grschtrg hp/website/styles/custom.css",
+		"/C/Users/torst/Documents/projects/grschtrg hp/website/index.html",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/controller/SendOrderController.js",
+		"/C/Users/torst/AppData/Local/Temp/377fe39f-8b38-4a9d-9727-35461c681597/library/paypal/processPaypalPayment.php",
+		"/C/Users/torst/AppData/Local/Temp/377fe39f-8b38-4a9d-9727-35461c681597/menu/menu-new.json",
+		"/C/Users/torst/AppData/Local/Temp/377fe39f-8b38-4a9d-9727-35461c681597/library/processOrderNative.php",
+		"/C/Users/torst/AppData/Local/Temp/377fe39f-8b38-4a9d-9727-35461c681597/library/paypal/paypal.class.php",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/functions.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/detail.html",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/controller/DetailController.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/controller/MasterController.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/controller/CartAddonsDetailController.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/data/menu-fromserver.json",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/data/menu.json",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/index.html",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/controller/menuServive.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/scripts/angularSlideables.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/scripts/platformOverrides.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/scripts/index.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/DataManager.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/js/build/app.js",
+		"/C/Users/torst/Documents/projects/worldofwimmel/gamedesigndocument.me",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/Gruntfile.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/svn-ignore.txt",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/config.xml",
+		"/C/Users/torst/Documents/development/NewProject/assets/Script/Player.ts",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/README.md",
+		"/C/Users/torst/Documents/projects/cordovatest/hello/www/index.html",
+		"/C/Users/torst/Documents/development/NewProject/assets/Script/Star.ts",
+		"/C/Users/torst/Documents/development/NewProject/assets/Script/NewScript - 001.ts",
+		"/C/Users/torst/Documents/development/helloCocos/assets/Script/Helloworld.ts",
+		"/C/Users/torst/Documents/evimed/Hetzner/Hetzner_2018-12-19_I180001852575.pdf",
+		"/C/Users/torst/Documents/evimed/Hetzner/Hetzner_2018-12-19_I180001852844.pdf",
+		"/C/Users/torst/Documents/evimed/Hetzner/Hetzner_2019-01-03_R0009010461.pdf",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/error-list.html",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/data/info.json",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/index Kopie.html",
+		"/C/Users/torst/Documents/projects/cordovatest/hello/www/js/index.js",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/scripts/angular-messages-1.4.9.js",
+		"/C/Users/torst/Documents/projects/cordovatest/hello/config.xml",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/cart.html",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/cartAddonsDetail.html",
+		"/C/Users/torst/Documents/projects/maliyas-app/trunk/www/cordova.js",
+		"/C/Users/torst/Desktop/install-esystem.exe"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\torst\\Documents\\projects\\maliyas-app\\trunk\\www,-C:\\Users\\torst\\Documents\\projects\\maliyas-app\\trunk\\www\\js\\build\\*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new",
+			"showZubereitungItems",
+			"showZubreitungItems",
+			"toggleZubreitungItems",
+			"switchBigSmallVals",
+			"service - title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/router/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/torst/Documents/projects/quizorg/quizorg-app/src/components/HelloWorld.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/html/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\torst\\Documents\\coreserver2018\\client-server.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
