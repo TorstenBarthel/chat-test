@@ -8,5 +8,5 @@ npm install
 node index
 
 # Usage
-Open different browser windows and enjoy chatting.
+Open static/html/index.html in different browser windows and enjoy chatting.
 
